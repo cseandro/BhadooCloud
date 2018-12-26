@@ -80,13 +80,14 @@ Fill `***` with appropriate values from Google Developer Console.
 * Open [Google Dev Credentails Site](https://console.developers.google.com/apis/credentials).
 * Create a Project, name as you like.
 * Enable [Drive API](https://console.developers.google.com/apis/library/drive.googleapis.com)
-* In [Credentails Page](https://console.developers.google.com/apis/credentials) Click Create Credentials and then Click OAuth Client ID
+* In [Credentails Page](https://console.developers.google.com/apis/credentials) Click `Create Credentials` and then Click `OAuth Client ID`.
 * Select Web Application.
-* In Authorized JavaScript origins enter your domain name or IP whichever you are using for Bhadoo Cloud.
-* In Authorized redirect URIs enter your domain name or IP with /oauthCallback at last.
+* In `Authorized JavaScript origins` enter your domain name or IP whichever you are using for Bhadoo Cloud.
+* In `Authorized redirect URIs` enter your domain name or IP with `/oauthCallback` at last.
 * Use http:// or https:// as available.
 * If you are using Cloudflare for website use https:// and Set Flexible HTTPS in Cloudflare.
 * Copy your details and use above.
+* `GOOGLE_REDIRECT_URL` is same as `Authorized redirect URIs`
 
 
 For issues or other details visit [github.com/Mrigank11/embetacloud](https://github.com/Mrigank11/embetacloud)
