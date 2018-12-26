@@ -75,7 +75,7 @@ Installation on [AWS Cloud](https://aws.amazon.com/ec2/)
 
 Fill `***` with appropriate values from Google Developer Console.
 
-* Delete Container using
+* You can also Delete the Container using below if needed.
 
 ```
   docker stop $(docker ps -a -q)
