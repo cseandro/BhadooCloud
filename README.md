@@ -75,6 +75,13 @@ Installation on [AWS Cloud](https://aws.amazon.com/ec2/)
 
 Fill `***` with appropriate values from Google Developer Console.
 
+* Delete Container using
+
+```
+  docker stop $(docker ps -a -q)
+  docker rm $(docker ps -a -q)
+```
+
 # Get Google_Client_ID and Secret
 
 * Open [Google Dev Credentails Site](https://console.developers.google.com/apis/credentials).
