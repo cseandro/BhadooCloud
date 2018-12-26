@@ -11,10 +11,10 @@ Open URLs in Proxy to bypass Restrictions (works like VPN)
 
 # Usage
 
-Installation on AWS Cloud
+Installation on [AWS Cloud](https://aws.amazon.com/ec2/)
 
-* Select an Ubuntu 18.x Server
-* Use Putty to Login using SSH
+* Select an Ubuntu 18.xx Server Image
+* Use [Putty](https://www.putty.org/) to Login using SSH
 * Follow the below commands one by one.
 
 ```
