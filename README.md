@@ -4,6 +4,10 @@
 
 Build from [github.com/Mrigank11/embetacloud](https://github.com/Mrigank11/embetacloud) and [github.com/jpillora/cloud-torrent](https://github.com/jpillora/cloud-torrent)
 
+Fetch Torrents using .torrent file or Magnet Links, Fetch Files from Other Servers to Own Server and Upload to Google Drive.
+
+Open URLs in Proxy to bypass Restrictions (works like VPN)
+
 
 # Usage
 
@@ -83,5 +87,6 @@ Fill `***` with appropriate values from Google Developer Console.
 * Use http:// or https:// as available.
 * If you are using Cloudflare for website use https:// and Set Flexible HTTPS in Cloudflare.
 * Copy your details and use above.
+
 
 For issues or other details visit [github.com/Mrigank11/embetacloud](https://github.com/Mrigank11/embetacloud)
