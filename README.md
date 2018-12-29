@@ -83,6 +83,16 @@ Fill `***` with appropriate values from Google Developer Console.
   docker rm $(docker ps -a -q)
 ```
 
+* You can also remove pulled image to pull latest image again.
+
+```
+  docker images -a
+  
+  docker rmi Image Image
+```
+
+Replace Image with Docker Image ID
+
 # Get Google_Client_ID and Secret
 
 * Open [Google Dev Credentails Site](https://console.developers.google.com/apis/credentials).
