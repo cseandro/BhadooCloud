@@ -1,4 +1,4 @@
-![screenshot](.github/screenshot01.png)
+![screenshot](https://raw.githubusercontent.com/ParveenBhadooOfficial/BhadooCloud/master/.github/screenshot01.png)
 
 # BhadooCloud
 
