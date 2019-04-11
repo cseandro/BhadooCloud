@@ -4,8 +4,6 @@
 
 Repo at [github.com/ParveenBhadooOfficial/BhadooCloud](https://github.com/ParveenBhadooOfficial/BhadooCloud)
 
-Build from [github.com/Mrigank11/embetacloud](https://github.com/Mrigank11/embetacloud) and [github.com/jpillora/cloud-torrent](https://github.com/jpillora/cloud-torrent)
-
 Fetch Torrents using .torrent file or Magnet Links, Fetch Files from Other Servers to Own Server and Upload to Google Drive.
 
 Open URLs in Proxy to bypass Restrictions (works like VPN)
@@ -105,5 +103,8 @@ Replace Image with Docker Image ID
 * Copy your details and use above.
 * `GOOGLE_REDIRECT_URL` is same as `Authorized redirect URIs`
 
+Build from [github.com/Mrigank11/embetacloud](https://github.com/Mrigank11/embetacloud) and [github.com/jpillora/cloud-torrent](https://github.com/jpillora/cloud-torrent)
 
-For issues or other details visit [github.com/Mrigank11/embetacloud](https://github.com/Mrigank11/embetacloud)
+License [MIT](https://github.com/ParveenBhadooOfficial/BhadooCloud/blob/master/LICENSE)
+
+Contributions are Welcome.
