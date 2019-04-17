@@ -8,6 +8,15 @@ Fetch Torrents using .torrent file or Magnet Links, Fetch Files from Other Serve
 
 Open URLs in Proxy to bypass Restrictions (works like VPN)
 
+![Docker Cloud Automated build](https://img.shields.io/docker/cloud/automated/parveenbhadoo/bhadoocloud.svg)
+![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/parveenbhadoo/bhadoocloud.svg?style=flat)
+![Docker Pulls](https://img.shields.io/docker/pulls/parveenbhadoo/bhadoocloud.svg)
+![Docker Stars](https://img.shields.io/docker/stars/parveenbhadoo/bhadoocloud.svg)
+![Docker Size](https://images.microbadger.com/badges/image/parveenbhadoo/bhadoocloud.svg)
+![Docker Version](https://images.microbadger.com/badges/version/parveenbhadoo/bhadoocloud.svg)
+
+![GitHub repo size](https://img.shields.io/github/repo-size/parveenbhadooofficial/bhadoocloud.svg)
+![GitHub last commit](https://img.shields.io/github/last-commit/parveenbhadooofficial/bhadoocloud.svg)
 
 # Usage
 
